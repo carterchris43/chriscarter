@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brisbarter
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning CS50x
+- 🌱 I’m currently attending Sabio's Full Stack Software Dev Course
 - 💞️ I’m looking to collaborate on anything you think would help me improve
 - 📫 How to reach me: pm me on github!
 
